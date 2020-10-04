@@ -1,0 +1,17 @@
+{
+    "title": "English",
+    "home": {
+        "search": "Search",
+        "most": "Most Popular"
+    },
+    "detail": {
+        "duration": "Duration",
+        "genre": "Genre",
+        "language": "Language",
+        "synopsis": "Synopsis",
+        "readMore": "Read more",
+        "readLess": "Read less",
+        "cast": "Main cast",
+        "technical": "Main technical team"
+    }
+}
